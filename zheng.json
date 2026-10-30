@@ -1,0 +1,375 @@
+{
+ "spider": "https://cnb.cool/fish2035/xs/-/git/raw/main/spider.jar",
+ "home": "<b>🎯 无聊专属接口</b><br><br>📢 群组：<a href=\"https://t.me/+eJw1zhbWM7gwZWFl\">无聊资源交流群</a><br><br>📌 接口大多数来着自己制作，部分来自网络搜集<br><br>⚠️ 如遇播放失败，请点击左上角切换线路。<br>本接口仅供学习交流，请勿用于商业用途。",
+ "sites": [
+  {
+   "key": "配置中心",
+   "name": "配置 • 中心",
+   "type": 3,
+   "api": "csp_Config",
+   "searchable": 0,
+   "changeable": 0,
+   "indexs": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.597
+   }
+  },
+  {
+   "key": "哔哩合集",
+   "name": "哔哩 • 合集",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.433
+   },
+   "ext": {
+    "n": "哔哩合集"
+   }
+  },
+  {
+   "key": "asmr·zhengjing·asmrba",
+   "name": "Asmr·正经·Asmr吧",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Asmr%E5%90%A7.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "asmr·zhengjing·daqian",
+   "name": "Asmr·正经·大全",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%A4%A7%E5%85%A8.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "asmr·zhengjing·honey",
+   "name": "Asmr·正经·Honey",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Honey.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "asmr·zhengjing·hub",
+   "name": "Asmr·正经·Hub",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Hub.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "asmr·zhengjing·xingmeng",
+   "name": "Asmr·正经·星梦",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%98%9F%E6%A2%A6.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "duanju·zhengjing·juhe",
+   "name": "短剧·正经·聚合",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9F%AD%E5%89%A7%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%81%9A%E5%90%88.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "duanju·zhengjing·xigua",
+   "name": "短剧·正经·西瓜短剧",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9F%AD%E5%89%A7%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%A5%BF%E7%93%9C%E7%9F%AD%E5%89%A7.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "qita·zhengjing·ziyuanguanli",
+   "name": "其他·正经·资源管理",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%85%B6%E4%BB%96%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "趣搜",
+   "name": "趣搜 • 搜索",
+   "type": 3,
+   "api": "csp_QuPanSo"
+  },
+  {
+   "key": "tingge·zhengjing·dj",
+   "name": "听歌·正经·Dj",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E6%AD%8C%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Dj.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "tingge·zhengjing·fengye",
+   "name": "听歌·正经·枫叶",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E6%AD%8C%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%9E%AB%E5%8F%B6.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "tingge·zhengjing·kuwo",
+   "name": "听歌·正经·酷我",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E6%AD%8C%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%85%B7%E6%88%91.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "tingshu·zhengjing·275",
+   "name": "听书·正经·275",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7275.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "tingshu·zhengjing·456",
+   "name": "听书·正经·456",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7456.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "tingshu·zhengjing·yitingshu",
+   "name": "听书·正经·易听书",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%98%93%E5%90%AC%E4%B9%A6.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "tingshu·zhengjing·yuetingba",
+   "name": "听书·正经·悦听吧",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%82%A6%E5%90%AC%E5%90%A7.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·125yingshi",
+   "name": "影视·正经·125影视",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7125%E5%BD%B1%E8%A7%86.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·a123tv",
+   "name": "影视·正经·A123tv",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7A123tv.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·baipiaozhe",
+   "name": "影视·正经·白嫖者",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E7%99%BD%E5%AB%96%E8%80%85.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·bojuwang",
+   "name": "影视·正经·播剧网",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%92%AD%E5%89%A7%E7%BD%91.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·diyidongmanwang",
+   "name": "影视·正经·第一动漫网",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E7%AC%AC%E4%B8%80%E5%8A%A8%E6%BC%AB%E7%BD%91.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·dongmanwang",
+   "name": "影视·正经·动漫网",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%8A%A8%E6%BC%AB%E7%BD%91.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·douhua",
+   "name": "影视·正经·豆花",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%B1%86%E8%8A%B1.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·ecohub",
+   "name": "影视·正经·Ecohub",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Ecohub.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·feikuai",
+   "name": "影视·正经·飞快",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%A3%9E%E5%BF%AB.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·fengye",
+   "name": "影视·正经·枫叶",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%9E%AB%E5%8F%B6.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·foyingyuan",
+   "name": "影视·正经·Fo影院",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Fo%E5%BD%B1%E9%99%A2.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·juhe",
+   "name": "影视·正经·聚合",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%81%9A%E5%90%88.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·nunuyingyuan",
+   "name": "影视·正经·努努影院",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%8A%AA%E5%8A%AA%E5%BD%B1%E9%99%A2.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·omofun",
+   "name": "影视·正经·Omofun",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Omofun.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·pomo",
+   "name": "影视·正经·Pomo",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Pomo.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·qingkongciyuan",
+   "name": "影视·正经·青空次元",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%9D%92%E7%A9%BA%E6%AC%A1%E5%85%83.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·shafatv",
+   "name": "影视·正经·沙发tv",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%B2%99%E5%8F%91tv.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yingshi·zhengjing·youguan",
+   "name": "影视·正经·油管",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%B2%B9%E7%AE%A1.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "yuedu·zhengjing·sudugu",
+   "name": "阅读·正经·速读谷",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E9%98%85%E8%AF%BB%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%80%9F%E8%AF%BB%E8%B0%B7.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "zhibo·zhengjing·bili",
+   "name": "直播·正经·哔哩",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9B%B4%E6%92%AD%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%93%94%E5%93%A9.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "zhibo·zhengjing·juhe",
+   "name": "直播·正经·聚合",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9B%B4%E6%92%AD%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%81%9A%E5%90%88.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "zhibo·zhengjing·youguan",
+   "name": "直播·正经·油管",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9B%B4%E6%92%AD%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%B2%B9%E7%AE%A1.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  }
+ ]
+}

@@ -6,7 +6,7 @@
    "key": "asmr·sese·hentai",
    "name": "Asmr·涩涩·Hentai",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Hentai.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/Asmr%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Hentai.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -15,7 +15,7 @@
    "key": "asmr·sese·jasmr",
    "name": "Asmr·涩涩·Jasmr",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Jasmr.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/Asmr%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Jasmr.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -24,7 +24,7 @@
    "key": "asmr·sese·riben",
    "name": "Asmr·涩涩·日本",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%97%A5%E6%9C%AC.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/Asmr%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%97%A5%E6%9C%AC.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -33,7 +33,7 @@
    "key": "asmr·sese·youshengsaomai",
    "name": "Asmr·涩涩·有声骚麦",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%9C%89%E5%A3%B0%E9%AA%9A%E9%BA%A6.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/Asmr%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%9C%89%E5%A3%B0%E9%AA%9A%E9%BA%A6.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -42,7 +42,7 @@
    "key": "asmr·zhengjing·asmrba",
    "name": "Asmr·正经·Asmr吧",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Asmr%E5%90%A7.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Asmr%E5%90%A7.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -51,7 +51,7 @@
    "key": "asmr·zhengjing·daqian",
    "name": "Asmr·正经·大全",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%A4%A7%E5%85%A8.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%A4%A7%E5%85%A8.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -60,7 +60,7 @@
    "key": "asmr·zhengjing·honey",
    "name": "Asmr·正经·Honey",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Honey.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Honey.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -69,7 +69,7 @@
    "key": "asmr·zhengjing·hub",
    "name": "Asmr·正经·Hub",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Hub.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Hub.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -78,7 +78,7 @@
    "key": "asmr·zhengjing·xingmeng",
    "name": "Asmr·正经·星梦",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%98%9F%E6%A2%A6.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%98%9F%E6%A2%A6.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -104,7 +104,7 @@
    "key": "duanju·sese·91duanju",
    "name": "短剧·涩涩·91短剧",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9F%AD%E5%89%A7%C2%B7%E6%B6%A9%E6%B6%A9%C2%B791%E7%9F%AD%E5%89%A7.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E7%9F%AD%E5%89%A7%C2%B7%E6%B6%A9%E6%B6%A9%C2%B791%E7%9F%AD%E5%89%A7.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -113,7 +113,7 @@
    "key": "duanju·sese·huangdou",
    "name": "短剧·涩涩·黄豆",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9F%AD%E5%89%A7%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%BB%84%E8%B1%86.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E7%9F%AD%E5%89%A7%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%BB%84%E8%B1%86.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -122,7 +122,7 @@
    "key": "duanju·sese·huangguo",
    "name": "短剧·涩涩·黄果",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9F%AD%E5%89%A7%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%BB%84%E6%9E%9C.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E7%9F%AD%E5%89%A7%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%BB%84%E6%9E%9C.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -131,7 +131,7 @@
    "key": "duanju·zhengjing·juhe",
    "name": "短剧·正经·聚合",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9F%AD%E5%89%A7%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%81%9A%E5%90%88.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E7%9F%AD%E5%89%A7%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%81%9A%E5%90%88.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -140,7 +140,7 @@
    "key": "duanju·zhengjing·xigua",
    "name": "短剧·正经·西瓜短剧",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9F%AD%E5%89%A7%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%A5%BF%E7%93%9C%E7%9F%AD%E5%89%A7.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E7%9F%AD%E5%89%A7%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%A5%BF%E7%93%9C%E7%9F%AD%E5%89%A7.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -149,7 +149,7 @@
    "key": "juhe·sese·yeshe",
    "name": "聚合·涩涩·夜社",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E8%81%9A%E5%90%88%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%A4%9C%E7%A4%BE.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E8%81%9A%E5%90%88%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%A4%9C%E7%A4%BE.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -158,7 +158,7 @@
    "key": "manhua·sese·aman",
    "name": "漫画·涩涩·Aman",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E6%BC%AB%E7%94%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Aman.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E6%BC%AB%E7%94%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Aman.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -167,7 +167,7 @@
    "key": "manhua·sese·manxiaosi",
    "name": "漫画·涩涩·漫小肆",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E6%BC%AB%E7%94%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%BC%AB%E5%B0%8F%E8%82%86.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E6%BC%AB%E7%94%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%BC%AB%E5%B0%8F%E8%82%86.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -176,7 +176,7 @@
    "key": "manhua·sese·niaoniaohanman",
    "name": "漫画·涩涩·鸟鸟韩漫",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E6%BC%AB%E7%94%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%B8%9F%E9%B8%9F%E9%9F%A9%E6%BC%AB.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E6%BC%AB%E7%94%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%B8%9F%E9%B8%9F%E9%9F%A9%E6%BC%AB.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -185,7 +185,7 @@
    "key": "manhua·sese·wumantiantang",
    "name": "漫画·涩涩·污漫天堂",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E6%BC%AB%E7%94%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%B1%A1%E6%BC%AB%E5%A4%A9%E5%A0%82.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E6%BC%AB%E7%94%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%B1%A1%E6%BC%AB%E5%A4%A9%E5%A0%82.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -194,7 +194,7 @@
    "key": "panlian",
    "name": "盘链",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9B%98%E9%93%BE.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E7%9B%98%E9%93%BE.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -216,7 +216,7 @@
    "key": "qita·zhengjing·ziyuanguanli",
    "name": "其他·正经·资源管理",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%85%B6%E4%BB%96%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%85%B6%E4%BB%96%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -231,7 +231,7 @@
    "key": "tingge·zhengjing·dj",
    "name": "听歌·正经·Dj",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E6%AD%8C%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Dj.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%90%AC%E6%AD%8C%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Dj.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -240,7 +240,7 @@
    "key": "tingge·zhengjing·fengye",
    "name": "听歌·正经·枫叶",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E6%AD%8C%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%9E%AB%E5%8F%B6.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%90%AC%E6%AD%8C%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%9E%AB%E5%8F%B6.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -249,7 +249,7 @@
    "key": "tingge·zhengjing·kuwo",
    "name": "听歌·正经·酷我",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E6%AD%8C%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%85%B7%E6%88%91.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%90%AC%E6%AD%8C%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%85%B7%E6%88%91.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -258,7 +258,7 @@
    "key": "tingshu·zhengjing·275",
    "name": "听书·正经·275",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7275.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7275.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -267,7 +267,7 @@
    "key": "tingshu·zhengjing·456",
    "name": "听书·正经·456",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7456.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7456.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -276,7 +276,7 @@
    "key": "tingshu·zhengjing·yitingshu",
    "name": "听书·正经·易听书",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%98%93%E5%90%AC%E4%B9%A6.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%98%93%E5%90%AC%E4%B9%A6.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -285,7 +285,7 @@
    "key": "tingshu·zhengjing·yuetingba",
    "name": "听书·正经·悦听吧",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%82%A6%E5%90%AC%E5%90%A7.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%90%AC%E4%B9%A6%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%82%A6%E5%90%AC%E5%90%A7.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -294,7 +294,7 @@
    "key": "tuji·sese·cosplaytele",
    "name": "图集·涩涩·Cosplaytele",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Cosplaytele.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Cosplaytele.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -303,7 +303,7 @@
    "key": "tuji·sese·danryoku",
    "name": "图集·涩涩·Danryoku",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Danryoku.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Danryoku.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -312,7 +312,7 @@
    "key": "tuji·sese·hentai",
    "name": "图集·涩涩·Hentai",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Hentai.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Hentai.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -321,7 +321,7 @@
    "key": "tuji·sese·meise",
    "name": "图集·涩涩·魅色",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%AD%85%E8%89%B2.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%AD%85%E8%89%B2.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -330,7 +330,7 @@
    "key": "tuji·sese·mitaku",
    "name": "图集·涩涩·Mitaku",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Mitaku.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Mitaku.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -339,7 +339,7 @@
    "key": "tuji·sese·xiaohuangshu",
    "name": "图集·涩涩·小黄书",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%B0%8F%E9%BB%84%E4%B9%A6.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%B0%8F%E9%BB%84%E4%B9%A6.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -348,7 +348,7 @@
    "key": "tuji·sese·xiuren",
    "name": "图集·涩涩·秀人",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%A7%80%E4%BA%BA.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%A7%80%E4%BA%BA.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -357,7 +357,7 @@
    "key": "tuji·sese·xiuse",
    "name": "图集·涩涩·秀色",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%A7%80%E8%89%B2.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%9B%BE%E9%9B%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%A7%80%E8%89%B2.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -366,7 +366,7 @@
    "key": "yingshi·sese·acfan",
    "name": "影视·涩涩·Acfan",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Acfan.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Acfan.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -375,7 +375,7 @@
    "key": "yingshi·sese·123av",
    "name": "影视·涩涩·123av",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7123av.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7123av.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -384,7 +384,7 @@
    "key": "yingshi·sese·av3698",
    "name": "影视·涩涩·Av3698",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Av3698.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Av3698.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -393,7 +393,7 @@
    "key": "yingshi·sese·3d",
    "name": "影视·涩涩·3d",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B73d.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B73d.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -402,7 +402,7 @@
    "key": "yingshi·sese·douge",
    "name": "影视·涩涩·抖阁",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%8A%96%E9%98%81.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%8A%96%E9%98%81.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -411,7 +411,7 @@
    "key": "yingshi·sese·douyin",
    "name": "影视·涩涩·抖阴",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%8A%96%E9%98%B4.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%8A%96%E9%98%B4.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -420,7 +420,7 @@
    "key": "yingshi·sese·duofenlei",
    "name": "影视·涩涩·多分类",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%A4%9A%E5%88%86%E7%B1%BB.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%A4%9A%E5%88%86%E7%B1%BB.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -429,7 +429,7 @@
    "key": "yingshi·sese·51fans",
    "name": "影视·涩涩·51Fans",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B751Fans.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B751Fans.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -438,7 +438,7 @@
    "key": "yingshi·sese·fennen",
    "name": "影视·涩涩·粉嫩",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%B2%89%E5%AB%A9.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%B2%89%E5%AB%A9.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -447,7 +447,7 @@
    "key": "yingshi·sese·91hub",
    "name": "影视·涩涩·91hub",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B791hub.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B791hub.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -456,7 +456,7 @@
    "key": "yingshi·sese·huoporn",
    "name": "影视·涩涩·Huoporn",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Huoporn.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Huoporn.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -465,7 +465,7 @@
    "key": "yingshi·sese·18jav",
    "name": "影视·涩涩·18jav",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B718jav.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B718jav.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -474,7 +474,7 @@
    "key": "yingshi·sese·javmenu",
    "name": "影视·涩涩·Javmenu",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Javmenu.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Javmenu.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -483,7 +483,7 @@
    "key": "yingshi·sese·kanav",
    "name": "影视·涩涩·Kanav",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Kanav.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Kanav.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -492,7 +492,7 @@
    "key": "yingshi·sese·madou",
    "name": "影视·涩涩·麻豆",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%BA%BB%E8%B1%86.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%BA%BB%E8%B1%86.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -501,7 +501,7 @@
    "key": "yingshi·sese·msavx",
    "name": "影视·涩涩·Msavx",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Msavx.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Msavx.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -510,7 +510,7 @@
    "key": "yingshi·sese·pornhub",
    "name": "影视·涩涩·Pornhub",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Pornhub.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Pornhub.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -519,7 +519,7 @@
    "key": "yingshi·sese·pttco",
    "name": "影视·涩涩·Pttco",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Pttco.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Pttco.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -528,7 +528,7 @@
    "key": "yingshi·sese·quan3d",
    "name": "影视·涩涩·全3d",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%85%A83d.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%85%A83d.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -537,7 +537,7 @@
    "key": "yingshi·sese·tuite",
    "name": "影视·涩涩·推特",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%8E%A8%E7%89%B9.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E6%8E%A8%E7%89%B9.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -546,7 +546,7 @@
    "key": "yingshi·sese·vhub",
    "name": "影视·涩涩·Vhub",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Vhub.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Vhub.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -555,7 +555,7 @@
    "key": "yingshi·sese·xptiantang",
    "name": "影视·涩涩·Xp天堂",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Xp%E5%A4%A9%E5%A0%82.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Xp%E5%A4%A9%E5%A0%82.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -564,7 +564,7 @@
    "key": "yingshi·sese·xvideos",
    "name": "影视·涩涩·Xvideos",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Xvideos.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Xvideos.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -573,7 +573,7 @@
    "key": "yingshi·sese·yeshe",
    "name": "影视·涩涩·夜社",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%A4%9C%E7%A4%BE.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%A4%9C%E7%A4%BE.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -582,7 +582,7 @@
    "key": "yingshi·sese·yiniu",
    "name": "影视·涩涩一牛",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%E4%B8%80%E7%89%9B.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%B6%A9%E6%B6%A9%E4%B8%80%E7%89%9B.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -591,7 +591,7 @@
    "key": "yingshi·zhengjing·a123tv",
    "name": "影视·正经·A123tv",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7A123tv.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7A123tv.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -600,7 +600,7 @@
    "key": "yingshi·zhengjing·baipiaozhe",
    "name": "影视·正经·白嫖者",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E7%99%BD%E5%AB%96%E8%80%85.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E7%99%BD%E5%AB%96%E8%80%85.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -609,7 +609,7 @@
    "key": "yingshi·zhengjing·bojuwang",
    "name": "影视·正经·播剧网",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%92%AD%E5%89%A7%E7%BD%91.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%92%AD%E5%89%A7%E7%BD%91.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -618,7 +618,7 @@
    "key": "yingshi·zhengjing·diyidongmanwang",
    "name": "影视·正经·第一动漫网",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E7%AC%AC%E4%B8%80%E5%8A%A8%E6%BC%AB%E7%BD%91.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E7%AC%AC%E4%B8%80%E5%8A%A8%E6%BC%AB%E7%BD%91.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -627,7 +627,7 @@
    "key": "yingshi·zhengjing·dongmanwang",
    "name": "影视·正经·动漫网",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%8A%A8%E6%BC%AB%E7%BD%91.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%8A%A8%E6%BC%AB%E7%BD%91.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -636,7 +636,7 @@
    "key": "yingshi·zhengjing·douhua",
    "name": "影视·正经·豆花",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%B1%86%E8%8A%B1.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%B1%86%E8%8A%B1.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -645,7 +645,7 @@
    "key": "yingshi·zhengjing·ecohub",
    "name": "影视·正经·Ecohub",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Ecohub.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Ecohub.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -654,7 +654,7 @@
    "key": "yingshi·zhengjing·feikuai",
    "name": "影视·正经·飞快",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%A3%9E%E5%BF%AB.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%A3%9E%E5%BF%AB.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -663,7 +663,7 @@
    "key": "yingshi·zhengjing·fengye",
    "name": "影视·正经·枫叶",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%9E%AB%E5%8F%B6.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%9E%AB%E5%8F%B6.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -672,7 +672,7 @@
    "key": "yingshi·zhengjing·foyingyuan",
    "name": "影视·正经·Fo影院",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Fo%E5%BD%B1%E9%99%A2.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Fo%E5%BD%B1%E9%99%A2.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -681,7 +681,7 @@
    "key": "yingshi·zhengjing·juhe",
    "name": "影视·正经·聚合",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%81%9A%E5%90%88.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%81%9A%E5%90%88.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -690,7 +690,7 @@
    "key": "yingshi·zhengjing·nunuyingyuan",
    "name": "影视·正经·努努影院",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%8A%AA%E5%8A%AA%E5%BD%B1%E9%99%A2.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%8A%AA%E5%8A%AA%E5%BD%B1%E9%99%A2.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -699,7 +699,7 @@
    "key": "yingshi·zhengjing·omofun",
    "name": "影视·正经·Omofun",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Omofun.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Omofun.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -708,7 +708,7 @@
    "key": "yingshi·zhengjing·pomo",
    "name": "影视·正经·Pomo",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Pomo.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7Pomo.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -717,7 +717,7 @@
    "key": "yingshi·zhengjing·qingkongciyuan",
    "name": "影视·正经·青空次元",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%9D%92%E7%A9%BA%E6%AC%A1%E5%85%83.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%9D%92%E7%A9%BA%E6%AC%A1%E5%85%83.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -726,7 +726,7 @@
    "key": "yingshi·zhengjing·shafatv",
    "name": "影视·正经·沙发tv",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%B2%99%E5%8F%91tv.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%B2%99%E5%8F%91tv.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -735,7 +735,7 @@
    "key": "yingshi·zhengjing·125yingshi",
    "name": "影视·正经·125影视",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7125%E5%BD%B1%E8%A7%86.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7125%E5%BD%B1%E8%A7%86.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -744,7 +744,7 @@
    "key": "yingshi·zhengjing·youguan",
    "name": "影视·正经·油管",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%B2%B9%E7%AE%A1.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%B2%B9%E7%AE%A1.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -753,7 +753,7 @@
    "key": "yuedu·sese·basha",
    "name": "阅读·涩涩·八叉",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E9%98%85%E8%AF%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%85%AB%E5%8F%89.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E9%98%85%E8%AF%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%85%AB%E5%8F%89.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -762,7 +762,7 @@
    "key": "yuedu·sese·diyibanzhu",
    "name": "阅读·涩涩·第一版主",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E9%98%85%E8%AF%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%AC%AC%E4%B8%80%E7%89%88%E4%B8%BB.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E9%98%85%E8%AF%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%AC%AC%E4%B8%80%E7%89%88%E4%B8%BB.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -771,7 +771,7 @@
    "key": "yuedu·sese·diyizhan",
    "name": "阅读·涩涩·第一站",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E9%98%85%E8%AF%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%AC%AC%E4%B8%80%E7%AB%99.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E9%98%85%E8%AF%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%AC%AC%E4%B8%80%E7%AB%99.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -780,7 +780,7 @@
    "key": "yuedu·sese·yedu",
    "name": "阅读·涩涩·夜读",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E9%98%85%E8%AF%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%A4%9C%E8%AF%BB.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E9%98%85%E8%AF%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E5%A4%9C%E8%AF%BB.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -789,7 +789,7 @@
    "key": "yuedu·zhengjing·sudugu",
    "name": "阅读·正经·速读谷",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E9%98%85%E8%AF%BB%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%80%9F%E8%AF%BB%E8%B0%B7.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E9%98%85%E8%AF%BB%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E9%80%9F%E8%AF%BB%E8%B0%B7.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -798,7 +798,7 @@
    "key": "zhibo·sese·chaturbate",
    "name": "直播·涩涩·Chaturbate",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9B%B4%E6%92%AD%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Chaturbate.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E7%9B%B4%E6%92%AD%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7Chaturbate.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -807,7 +807,7 @@
    "key": "zhibo·zhengjing·bili",
    "name": "直播·正经·哔哩",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9B%B4%E6%92%AD%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%93%94%E5%93%A9.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E7%9B%B4%E6%92%AD%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E5%93%94%E5%93%A9.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -816,7 +816,7 @@
    "key": "zhibo·zhengjing·juhe",
    "name": "直播·正经·聚合",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9B%B4%E6%92%AD%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%81%9A%E5%90%88.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E7%9B%B4%E6%92%AD%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%81%9A%E5%90%88.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -825,7 +825,7 @@
    "key": "zhibo·zhengjing·youguan",
    "name": "直播·正经·油管",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E7%9B%B4%E6%92%AD%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%B2%B9%E7%AE%A1.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E7%9B%B4%E6%92%AD%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%B2%B9%E7%AE%A1.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -834,7 +834,7 @@
    "key": "asmr·sese·fanqiezhushen",
    "name": "Asmr·涩涩·番茄助眠",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E7%95%AA%E8%8C%84%E5%8A%A9%E7%9C%A0.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/Asmr%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E7%95%AA%E8%8C%84%E5%8A%A9%E7%9C%A0.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -843,7 +843,7 @@
    "key": "yingshi·sese·51chigua",
    "name": "影视·涩涩·51吃瓜",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%83%E7%93%9C%C2%B7%E6%B6%A9%E6%B6%A9%C2%B751%E5%90%83%E7%93%9C.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%90%83%E7%93%9C%C2%B7%E6%B6%A9%E6%B6%A9%C2%B751%E5%90%83%E7%93%9C.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -852,7 +852,7 @@
    "key": "manhua·sese·shenshi",
    "name": "漫画·涩涩·绅士",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E6%BC%AB%E7%94%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%BB%85%E5%A3%AB.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E6%BC%AB%E7%94%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%BB%85%E5%A3%AB.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -861,7 +861,7 @@
    "key": "yingshi·zhengjing·yinghua",
    "name": "影视·正经·樱花动漫",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -870,7 +870,7 @@
    "key": "yingshi·sese·heiliao",
    "name": "影视·涩涩·黑料网",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%90%83%E7%93%9C%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%BB%91%E6%96%99%E7%BD%91.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%90%83%E7%93%9C%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E9%BB%91%E6%96%99%E7%BD%91.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -879,7 +879,7 @@
    "key": "yuedu·zhengjing·alicesw",
    "name": "阅读·正经·爱丽丝书屋",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E9%98%85%E8%AF%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B9%A6%E5%B1%8B.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E9%98%85%E8%AF%BB%C2%B7%E6%B6%A9%E6%B6%A9%C2%B7%E7%88%B1%E4%B8%BD%E4%B8%9D%E4%B9%A6%E5%B1%8B.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -888,7 +888,7 @@
    "key": "yingshi·zhengjing·fanqie",
    "name": "影视·正经·番茄动漫",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -897,7 +897,7 @@
    "key": "yingshi·zhengjing·daishu",
    "name": "影视·正经·袋鼠影视",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/wuliao0705/wuliao/refs/heads/main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%A2%8B%E9%BC%A0%E5%BD%B1%E8%A7%86.py",
+   "api": "https://cdn.jsdelivr.net/gh/wuliao0705/wuliao@main/%E5%BD%B1%E8%A7%86%C2%B7%E6%AD%A3%E7%BB%8F%C2%B7%E8%A2%8B%E9%BC%A0%E5%BD%B1%E8%A7%86.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
